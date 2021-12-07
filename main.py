@@ -43,11 +43,6 @@ class Video():
         minutes=str(math.floor((miliseconds/(1000*60))%60)).zfill(2)
         return minutes+'-'+seconds
 
-class Utils():
-    #Converts minutes to seconds
-    def min_to_sec(minutes):
-        return minutes*60
-
 class GifGenerator():
     #Selects a random video from the videos folder.
     def get_random_video(self):
