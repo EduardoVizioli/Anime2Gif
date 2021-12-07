@@ -13,4 +13,5 @@
   To run the program, you can simply call the main.py file with the following command:<br>
   -python main.py<br>
   <br>
-  When the program finishes running, you should have a new gif file inside the "temp" folder.
+  When the program finishes running, you should have a new gif file inside the "temp" folder.<br>
+  ![Alt Text](https://raw.githubusercontent.com/EduardoVizioli/Anime2Gif/main/running.gif)
