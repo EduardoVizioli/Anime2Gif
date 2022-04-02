@@ -2,7 +2,7 @@
   Anime2Gif is an algorithm that detects scenes in a video and generates gifs from it.
   <br>
 # Configuration
-  First, you'll need to install the dependencies. In order to install the dependencies, assuming you already haves python3 installed, you can run the following commands:<br>
+  First, you'll need to install the dependencies. In order to install the dependencies, assuming you already have python3 installed, you can run the following commands:<br>
   -pip install opencv-python<br>
   -pip install Pillow<br>
   -pip install numpy<br>
